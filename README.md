@@ -1,2 +1,2 @@
 # cloud
-This is the repo for cloud projects
+This is the repo for Duke cloud projects
